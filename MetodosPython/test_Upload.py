@@ -35,6 +35,7 @@ print end_time - ini_time
 """
 
 ini_time = datetime.datetime.now()
+str(ini_time)
 
 filen = "C:\Users\Arnol\GitHub\ETLBradar\MetodosPython\data_radar_timeseries_sample100m.txt"
 connStr = GlobalValues['connString']
