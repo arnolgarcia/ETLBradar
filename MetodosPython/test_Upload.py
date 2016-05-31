@@ -48,3 +48,6 @@ test.LoadDataBySQLwithSleep(connStr, tabla, datos, 10)
 
 end_time = datetime.datetime.now()
 print end_time - ini_time
+
+
+# agrego linea para test
